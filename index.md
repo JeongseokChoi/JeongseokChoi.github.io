@@ -6,4 +6,4 @@ layout: default
 
 ## Problem Solving (Algorithm)
 
-### [Baekjoon Online Judge](https://jeongseokchoi.github.io/baekjoon-online-judge/)
+### 1. [Baekjoon Online Judge](https://jeongseokchoi.github.io/baekjoon-online-judge/)
